@@ -5,7 +5,7 @@
         "recodeteamKey": "RecodeTeam",
 	"autoRead": true,
 	"self": false, 
-	"maxLimit": 30,
+	"maxLimit": 58,
 	"ownerList": ["6283169543914@s.whatsapp.net", "6285869484139@s.whatsapp.net", "994404819287@s.whatsapp.net"],
 	"apiUrl": "https://api.zeks.me",
         "PakTzyApi": "https://api-recodeteam.herokuapp.com",
