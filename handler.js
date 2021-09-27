@@ -51,7 +51,7 @@ module.exports = handle = (client, Client) => {
                 if(isLimit(data.sender)) return data.reply(mess.limit)
                 if(data.body == "") return data.reply(`Kirim perintah *${data.prefix}playvid [ query ]*\nContoh : ${data.prefix}playvid amv`)
                 data.reply(mess.wait)
-                res = await axios.get(`${configs.apiUrl}/api/yutub/video?apikey=${configs.recodeteamKey}&q=${data.body}`)
+                res = await axios.get(`${configs.apiUrl}/api/ytplaymp4/2?apikey=${configs.zeksKey}&q=${data.body}`)
                 if(res.data.status == false) data.reply(res.data.message)
                 ytm = res.data.result
                 teks = `*Data berhasil didapatkan!*\n\n*Judul* : ${ytm.title}\n*Ukuran* : ${ytm.size}\n*Kualitas* : ${ytm.quality}\n*Ext* : ${ytm.ext}\n*Source* : ${ytm.source}\n\n_Silahkan tunggu file media sedang dikirim mungkin butuh beberapa menit_`
