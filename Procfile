@@ -1,1 +1,2 @@
-worker: node index
+language = "nodejs"
+run = "npm start"
