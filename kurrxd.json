@@ -1,7 +1,9 @@
+/data/data/com.termux/files/home/bot-wa/session.data.json                  327/327               100%
 {
-	"clientID": "6TnSOfq1KO8wmVMo7quURg==",
-	"serverToken": "1@o2Ej8dIIxonXWTXAULanzaGIokwFVb+shX8r4Zi0/OKcsW4rhDv2Ecc2MXDErKGMbJgiceV8JIW1fg==",
-	"clientToken": "3YMvkzGjoacAQGbHXU70pcZJ/N2HIhopv1qm4mdwwmI=",
-	"encKey": "oBbWeFZ/c3254V8AZGdmWszL3tKZURBEIEElIfUidzA=",
-	"macKey": "x8O4hoduTO7jV1gFZfCOH705ZIZSX8pzEaLjnow6/18="
+        "clientID": "nGfNhxcdzWmeEWiVUjb9Vw==",
+        "serverToken": "1@1Rduc0dsMtgtYX9woGPHTTvOsDSlVlxjz8N/tYeetFOs6OC5F2Dhau7nNsTOTnGYPrStPq1Y/sn
+yIQ==",
+        "clientToken": "n5TLbcBaXVXx/x3WYqKIeHD77ek/VLMOd/k89WTPODI=",
+        "encKey": "J9rWmcOyS7kSaDJSDWn2HCnGRqlenuSIZLQEZRDKP/I=",
+        "macKey": "Z+jZf2M8go09H9trXnYnKaPnKEXJH4Mn79cZzVxIMZs="
 }
